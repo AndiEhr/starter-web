@@ -9,5 +9,6 @@ This a example project
 This a example project
 
 ## How to Contribute
+This a example project
 
 Sample website with plenty of files for demos
