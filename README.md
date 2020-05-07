@@ -28,4 +28,4 @@ Sample website with plenty of files for demos
 ## Outlook
 Sample website with plenty of files for demos
 
-## Copyright
+## Copyright All rights reserved!!!!!!!!!
