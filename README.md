@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Adding more text. 
-Even more text added.
+Even much more text added.
 
 ## Purpose
 This a example project
