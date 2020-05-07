@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Andi 	andi@gmc.com @andi
-
+    Andi 		andi@gmc.com 	@andi
+	
 # THANKS
 
-    <name>
+   All my students!
 
 # TECHNOLOGY COLOPHON
 
